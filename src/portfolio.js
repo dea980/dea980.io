@@ -346,22 +346,6 @@ const competitiveSites = {
       profileLink: "https://www.hackerrank.com/layman_brother",
     },
     {
-      siteName: "Codechef",
-      iconifyClassname: "simple-icons:codechef",
-      style: {
-        color: "#5B4638",
-      },
-      profileLink: "https://www.codechef.com/users/ashutosh_1919",
-    },
-    {
-      siteName: "Codeforces",
-      iconifyClassname: "simple-icons:codeforces",
-      style: {
-        color: "#1F8ACB",
-      },
-      profileLink: "http://codeforces.com/profile/layman_brother",
-    },
-    {
       siteName: "Hackerearth",
       iconifyClassname: "simple-icons:hackerearth",
       style: {
@@ -721,20 +705,20 @@ const contactPageData = {
     description:
       "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Android, Cloud and Opensource Development.",
   },
-  blogSection: {
-    title: "Blogs",
-    subtitle:
-      "I like to document some of my experiences in professional career journey as well as some technical knowledge sharing.",
-    link: "https://blogs.ashutoshhathidara.com/",
-    avatar_image_path: "blogs_image.svg",
-  },
+  // blogSection: {
+  //   title: "Blogs",
+  //   subtitle:
+  //     "I like to document some of my experiences in professional career journey as well as some technical knowledge sharing.",
+  //   link: "https://blogs.ashutoshhathidara.com/",
+  //   avatar_image_path: "blogs_image.svg",
+  // },
   addressSection: {
     title: "Address",
     subtitle: "Saratoga Ave, San Jose, CA, USA 95129",
-    locality: "San Jose",
+    locality: "Bloomington",
     country: "USA",
-    region: "California",
-    postalCode: "95129",
+    region: "Indiana",
+    postalCode: "47408",
     streetAddress: "Saratoga Avenue",
     avatar_image_path: "address_image.svg",
     location_map_link: "https://maps.app.goo.gl/NvYZqa34Wye4tpS17",
