@@ -94,7 +94,7 @@ const skills = {
       skills: [
         // I might need to add my researches....
         "⚡ Developing highly scalable production ready models for various deeplearning and statistical use cases",
-        "⚡ Experience of working with Computer Vision and NLP projects",
+        "⚡ Experience of working with Reinforcement Learning project with visual input and GPU implementation research with Big Red 200 from IU",
         "⚡ Complex quantitative modelling for dynamic forecasting and time series analysis",
       ],
       softwareSkills: [
@@ -138,7 +138,7 @@ const skills = {
       title: "Full Stack Development",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Building responsive website front end using React-Redux",
+        "⚡ Building responsive website front end using Flutter",
         "⚡ Developing mobile applications using Flutter, React Native and solo android apps using Kotlin",
         "⚡ Creating application backend in Node, Express & Flask",
       ],
@@ -373,9 +373,8 @@ const degrees = {
       alt_name: "Indiana University Bloomington",
       duration: "2017 - 2024",
       descriptions: [
-        "⚡ I have taken varity of courses related to Artificial Intelligence which correspond to Explainable AI, Graph Machine Learning, Computer Vision etc.",
-        "⚡ Apart from this, I have also done research assistantship. As part of it, I have worked on creating new algorithms in Graph ML and Network Science.",
-        "⚡ During my time at university, I was also associated with multimedia department. As part of it, I have worked on some documentry films and interviews.",
+        "⚡ I have taken varity of courses related to Artificial Intelligence which correspond to Explainable AI, Graph Machine Learning, Reinforcment Learning etc.",
+        "⚡ Apart from this, I have also done research assistantship. As part of it, I have worked on creating new algorithms in ML and 3D model.",
       ],
       website_link: "https://www.indiana.edu/",
     },
@@ -629,13 +628,13 @@ const experience = {
           color: "#000000",
         },
         {
-          title: "Developer Students Club Member",
-          company: "DSC IIITDM Kurnool",
+          title: "IU CS Club Member", // need to change IU CS club
+          company: "Indiana University",
           company_url:
             "https://www.linkedin.com/company/developer-students-club-iiitdm-kurnool",
           logo_path: "dsc_logo.png",
-          duration: "Jan 2018 - May 2020",
-          location: "Kurnool, Andhra Pradesh",
+          duration: "Jan 2018 - May 2024",
+          location: "Bloomington, Indiana",
           description:
             "We have well established developer club in college which is directly associated with Google Developers. We have developed many interdisciplinary projects under the membership of this club. We have organised workshops and activities on Android Application Development, Flutter and React JS.",
           color: "#0C9D58",
